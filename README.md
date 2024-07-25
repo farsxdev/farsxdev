@@ -20,7 +20,7 @@
 
 <h3 align="center">Telegram</h3>
 
-<div align="center" href="https://t.me/fars_dev" target="_blank">
+<div align="center" href="https://t.me/farsxdev" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" width="80" height="80" alt="Telegram"/>
 </div>
-<h3 align="center">@fars_dev</h3>
+<h3 align="center">@farsxdev</h3>
