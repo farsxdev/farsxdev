@@ -4,6 +4,7 @@
 <h1 align="center"></h1>
 <h3 align="center">I am currently working on maintaing POCO X6 Pro (duchamp) </h3>
 <h3 align="center">I am also working on maintaing Motorola Moto G84 5G (bangkk) </h3>
+<h3 align="center">I am also working on maintaing Redmi 13C (gale) </h3>
 <h3 align="center">And Finished a device tree for Redmi Note 10 5G (camellia/n) </h1>
 <h1 align="center"></h1>
 
