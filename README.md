@@ -3,7 +3,8 @@
 <h3 align="center">and many other Things!</h1>
 <h1 align="center"></h1>
 <h3 align="center">I am currently working on maintaing POCO X6 Pro (duchamp) </h3>
-<h3 align="center">I am also working on SpeedFS (HyperSpeed Opem Source) </h3>
+<h3 align="center">I am also working on SpeedFS (HyperSpeed Open
+Source) </h3>
 <h3 align="center">I am also working on maintaing Motorola Moto G84 5G (bangkk) </h3>
 <h3 align="center">I am also working on maintaing Redmi 13C (gale) </h3>
 <h3 align="center">And Finished a device tree for Redmi Note 10 5G (camellia/n) </h1>
